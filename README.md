@@ -1,6 +1,7 @@
 #AES Encryption Algorithm in C
 
-This project provides an implementation of the Advanced Encryption Standard (AES) algorithm in C language. AES is a widely used encryption standard for securing sensitive data.
+This project provides an implementation of the Advanced Encryption Standard (AES) algorithm in C language.
+AES is a widely used encryption standard for securing sensitive data.
 ##Features
 
     Language: Implemented in C for efficiency and portability.
